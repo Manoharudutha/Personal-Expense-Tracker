@@ -10,7 +10,7 @@
     "dev": "concurrently \"npm start\" \"npm run client\" "
   },
   "keywords": [],
-  "author": "Sridhar Baindla",
+  "author": "Manohar Udutha",
   "license": "",
   "dependencies": {
     "colors": "^1.4.0",
